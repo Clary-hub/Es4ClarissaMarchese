@@ -1154,6 +1154,17 @@ section.herosection img{
         font-size: 12px;
 
     }
+
+     .grid4{
+        width: 186px;
+        margin-top: 60px;
+        
+       
+    }
+
+       .testo33{
+        padding:24px ;
+    }
 }
 
 
@@ -1223,6 +1234,16 @@ section.herosection img{
 
     .testo33{
         width: 130px;
+    }
+     .grid4{
+        width: 186px;
+        margin-top: 60px;
+        
+       
+    }
+
+       .testo33{
+        padding:24px ;
     }
     
 }
